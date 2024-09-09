@@ -24,3 +24,5 @@ A **classificação de pacientes de alto risco** é essencial para:
 - **Priorização de Cuidados**: Garantir que pacientes em maior risco recebam atenção médica adequada.
 - **Otimização de Recursos**: Melhorar a alocação de recursos hospitalares com base nas necessidades identificadas.
 - **Prevenção e Intervenção**: Identificar precocemente pacientes que podem necessitar de intervenção urgente para melhorar os resultados clínicos.
+
+- rs
